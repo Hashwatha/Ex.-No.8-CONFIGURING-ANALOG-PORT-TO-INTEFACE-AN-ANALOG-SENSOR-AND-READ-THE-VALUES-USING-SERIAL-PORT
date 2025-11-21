@@ -473,9 +473,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d663fc0f-cba0-40a7-830f-b7b0f28fc806" />
-
 <img width="897" height="843" alt="image" src="https://github.com/user-attachments/assets/8d680b28-8283-4107-9f3b-72ade1e0a67a" />
+
+![WhatsApp Image 2025-11-21 at 08 33 16_ddee6dd6](https://github.com/user-attachments/assets/0b363958-41e9-4535-b9df-21a5d6394c77)
 
 ## Result :
 
